@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "7471853229640187c1f545c16b2218fe",
+    "content-hash": "914786e682c1bd048b188076f17ac578",
     "packages": [
         {
             "name": "psr/cache",
@@ -1991,16 +1991,16 @@
         },
         {
             "name": "symfony/property-info",
-            "version": "v5.1.5",
+            "version": "v5.1.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/property-info.git",
-                "reference": "a10524dfdadc418c2e4b52667be7d6421b7da26f"
+                "reference": "22518930091e0bdb249694efc509e3697f7e325e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/property-info/zipball/a10524dfdadc418c2e4b52667be7d6421b7da26f",
-                "reference": "a10524dfdadc418c2e4b52667be7d6421b7da26f",
+                "url": "https://api.github.com/repos/symfony/property-info/zipball/22518930091e0bdb249694efc509e3697f7e325e",
+                "reference": "22518930091e0bdb249694efc509e3697f7e325e",
                 "shasum": ""
             },
             "require": {
@@ -2078,7 +2078,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2020-08-18T07:27:13+00:00"
+            "time": "2020-09-07T05:10:28+00:00"
         },
         {
             "name": "symfony/routing",
